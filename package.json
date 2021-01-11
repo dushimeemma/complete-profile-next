@@ -1,0 +1,22 @@
+{
+  "name": "complete-profile-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "autoprefixer": "^9",
+    "firebase": "^8.2.2",
+    "formik": "^2.2.6",
+    "next": "10.0.5",
+    "postcss": "^7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "yup": "^0.32.8"
+  }
+}
